@@ -1,2 +1,2 @@
 # 4CC001
-Computer Systems Engineering
+Year 1 module - Computer Systems Engineering
