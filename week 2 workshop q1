@@ -1,0 +1,27 @@
+def a = 11
+def b = 22
+def c = 5
+def d = 22
+def e = 6
+def f = 43
+println (a + b)
+println (f - a)
+println (c * e)
+println (b / a)
+println (f / a)
+println (l = d++)
+println (m = c)
+println (m++)
+println (a * c + e)
+println (a + c * e)
+println ((a + c) * e)
+println (a + c * e + c)
+println (a + c * (e + c))
+println ((a + c) * (e + c))
+println (b / a * e)
+println (0 + a / c)
+println (0 * a / c)
+println (a - c + e)
+println (x = -a * e)
+println (b + d / a)
+println (++d)
